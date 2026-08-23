@@ -1,0 +1,7 @@
+build/
+.csc/
+.settings/
+.cproject
+.project
+*.log
+.DS_Store
